@@ -1,3 +1,4 @@
 name;location;address;country_code;latitude;longitude;website;dome_diameter;dome_tilt;mobility;seats;seat_arrangement;opening_year;visitors_per_year;optomechanical_projector;optomechanical_projector_manufacturer;fulldome_software;fulldome_software_manufacturer
 Sternwarte mit Planetarium Dieterskirchen;Dieterskirchen;Neunburger Straße 24, 92542 Dieterskirchen;DE;49.411389;12.404722;www.sternwarte-dieterskirchen.de;6;0;stationary;25;concentric;2014;3000;Polaris MK1;Astrogeräte Berger;DigitalSky 2;Sky-Skan
 Nicolaus-Copernicus Planetarium Nürnberg;Nürnberg;Am Plärrer 41, 90429 Nürnberg;DE;49.447778;11.062778;www.planetarium-nuernberg.de;18;0;stationary;200;concentric;1961;80000;Zeiss Modell V;Zeiss;DigitalSky 2;Sky-Skan
+Planetarium Ursensollen;Ursensollen;Allmannsberger Weg 20, 92289 Ursensollen;DE;49.398056;11.74;www.planetarium-ursensollen.de;6.6;15;stationary;30;unidirectional;2019;unknown;;;DigitalSky Dark Matter;Sky-Skan
