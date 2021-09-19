@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.404722,
+          49.411389
+        ]
+      },
+      "properties": {
+        "name": "Sternwarte mit Planetarium Dieterskirchen",
+        "location": "Dieterskirchen",
+        "address": "Neunburger Stra\u00dfe 24, 92542 Dieterskirchen",
+        "country_code": "DE",
+        "website": "www.sternwarte-dieterskirchen.de",
+        "dome_diameter": 6,
+        "dome_tilt": 0,
+        "mobility": "stationary",
+        "seats": 25,
+        "seat_arrangement": "concentric",
+        "opening_year": 2014,
+        "visitors_per_year": 3000,
+        "optomechanical_projector": "Polaris MK1",
+        "optomechanical_projector_manufacturer": "Astroger\u00e4te Berger",
+        "fulldome_software": "DigitalSky 2",
+        "fulldome_software_manufacturer": "Sky-Skan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.062778,
+          49.447778
+        ]
+      },
+      "properties": {
+        "name": "Nicolaus-Copernicus Planetarium N\u00fcrnberg",
+        "location": "N\u00fcrnberg",
+        "address": "Am Pl\u00e4rrer 41, 90429 N\u00fcrnberg",
+        "country_code": "DE",
+        "website": "www.planetarium-nuernberg.de",
+        "dome_diameter": 18,
+        "dome_tilt": 0,
+        "mobility": "stationary",
+        "seats": 200,
+        "seat_arrangement": "concentric",
+        "opening_year": 1961,
+        "visitors_per_year": 80000,
+        "optomechanical_projector": "Zeiss Modell V",
+        "optomechanical_projector_manufacturer": "Zeiss",
+        "fulldome_software": "DigitalSky 2",
+        "fulldome_software_manufacturer": "Sky-Skan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.74,
+          49.398056
+        ]
+      },
+      "properties": {
+        "name": "Planetarium Ursensollen",
+        "location": "Ursensollen",
+        "address": "Allmannsberger Weg 20, 92289 Ursensollen",
+        "country_code": "DE",
+        "website": "www.planetarium-ursensollen.de",
+        "dome_diameter": 6.6,
+        "dome_tilt": 15,
+        "mobility": "stationary",
+        "seats": 30,
+        "seat_arrangement": "unidirectional",
+        "opening_year": 2019,
+        "visitors_per_year": "unknown",
+        "optomechanical_projector": null,
+        "optomechanical_projector_manufacturer": null,
+        "fulldome_software": "DigitalSky Dark Matter",
+        "fulldome_software_manufacturer": "Sky-Skan"
+      }
+    }
+  ]
+}
