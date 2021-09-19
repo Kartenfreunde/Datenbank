@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.404722,
+          49.411389
+        ]
+      },
+      "properties": {
+        "Name": "Sternwarte mit Planetarium Dieterskirchen",
+        "Ort": "Dieterskirchen",
+        "Adresse": "Neunburger Stra\u00dfe 24, 92542 Dieterskirchen",
+        "Land": "DE",
+        "Webseite": "www.sternwarte-dieterskirchen.de",
+        "Kuppeldurchmesser": "6",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "25",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "2014",
+        "Besucher pro Jahr": "3000",
+        "Optomechanischer Projektor": "Polaris MK1",
+        "Hersteller des optomechanischen Projektors": "Astroger\u00e4te Berger",
+        "Fulldome-Software": "DigitalSky 2",
+        "Hersteller der Fulldome-Software": "Sky-Skan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.062778,
+          49.447778
+        ]
+      },
+      "properties": {
+        "Name": "Nicolaus-Copernicus Planetarium N\u00fcrnberg",
+        "Ort": "N\u00fcrnberg",
+        "Adresse": "Am Pl\u00e4rrer 41, 90429 N\u00fcrnberg",
+        "Land": "DE",
+        "Webseite": "www.planetarium-nuernberg.de",
+        "Kuppeldurchmesser": "18",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "200",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1961",
+        "Besucher pro Jahr": "80000",
+        "Optomechanischer Projektor": "Zeiss Modell V",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "DigitalSky 2",
+        "Hersteller der Fulldome-Software": "Sky-Skan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.74,
+          49.398056
+        ]
+      },
+      "properties": {
+        "Name": "Planetarium Ursensollen",
+        "Ort": "Ursensollen",
+        "Adresse": "Allmannsberger Weg 20, 92289 Ursensollen",
+        "Land": "DE",
+        "Webseite": "www.planetarium-ursensollen.de",
+        "Kuppeldurchmesser": "6,6",
+        "Kuppelneigung": "15",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "30",
+        "Sitzplatzanordnung": "Unidirektional",
+        "Er\u00f6ffnungsjahr": "2019",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "None",
+        "Hersteller des optomechanischen Projektors": "None",
+        "Fulldome-Software": "DigitalSky Dark Matter",
+        "Hersteller der Fulldome-Software": "Sky-Skan"
+      }
+    }
+  ]
+}
