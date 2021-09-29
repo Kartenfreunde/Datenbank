@@ -79,7 +79,7 @@
         "seat_arrangement": "unidirectional",
         "opening_year": 2019,
         "visitors_per_year": "unknown",
-        "optomechanical_projector": "Zeiss Universarium",
+        "optomechanical_projector": null,
         "optomechanical_projector_manufacturer": null,
         "fulldome_software": "DigitalSky Dark Matter",
         "fulldome_software_manufacturer": "Sky-Skan"
