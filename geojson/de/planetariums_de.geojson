@@ -6,26 +6,2042 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.404722,
-          49.411389
+          13.476329,
+          52.485862
         ]
       },
       "properties": {
-        "Name": "Sternwarte mit Planetarium Dieterskirchen",
-        "Ort": "Dieterskirchen",
-        "Adresse": "Neunburger Stra\u00dfe 24, 92542 Dieterskirchen",
+        "Einrichtung": "Planetarium",
+        "Ort": "Berlin",
+        "Adresse": "Alt-Treptow 1, 12435 Berlin",
         "Land": "DE",
-        "Webseite": "www.sternwarte-dieterskirchen.de",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "8",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "38",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1959",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss Skymaster ZKP 2",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "",
+        "Hersteller der Fulldome-Software": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.349166,
+          52.457655
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Berlin",
+        "Adresse": "Munsterdamm 90, 12169 Berlin-Sch\u00f6neberg",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "20",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "291",
+        "Sitzplatzanordnung": "Unidirektional",
+        "Er\u00f6ffnungsjahr": "1965",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss Modell Vb",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "Zeiss Velvet",
+        "Hersteller der Fulldome-Software": "Zeiss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.428144,
+          52.543057
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Berlin",
+        "Adresse": "Prenzlauer Allee 80, 10405 Berlin",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "23",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "307",
+        "Sitzplatzanordnung": "Unidirektional",
+        "Er\u00f6ffnungsjahr": "1987",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss Universarium IX",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "Zeiss Velvet, E&S Digistar",
+        "Hersteller der Fulldome-Software": "Evans & Sutherland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.428144,
+          52.543057
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Berlin",
+        "Adresse": "Prenzlauer Allee 80, 10405 Berlin",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "6",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Mobil",
+        "Sitzpl\u00e4tze": "30",
+        "Sitzplatzanordnung": "Variabel",
+        "Er\u00f6ffnungsjahr": "2017",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "",
+        "Hersteller des optomechanischen Projektors": "",
+        "Fulldome-Software": "E&S Digistar",
+        "Hersteller der Fulldome-Software": "Evans & Sutherland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.425075,
+          52.325223
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Blankenfelde-Mahlow",
+        "Adresse": "Bahnhofstra\u00dfe 63, 15827 Blankenfelde-Mahlow",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "6",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "20",
+        "Sitzplatzanordnung": "Unidirektional",
+        "Er\u00f6ffnungsjahr": "2007",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "RSA Cosmos Cosmodyss\u00e9e III",
+        "Hersteller des optomechanischen Projektors": "RSA Cosmos",
+        "Fulldome-Software": "",
+        "Hersteller der Fulldome-Software": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.344335,
+          51.754494
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Cottbus",
+        "Adresse": "Lindenplatz 21, 03042 Cottbus",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "12.5",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "91",
+        "Sitzplatzanordnung": "Unidirektional",
+        "Er\u00f6ffnungsjahr": "1974",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Goto Chronos II",
+        "Hersteller des optomechanischen Projektors": "GOTO",
+        "Fulldome-Software": "RSA Cosmos In Space System 2C HD",
+        "Hersteller der Fulldome-Software": "RSA Cosmos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.549366,
+          52.325754
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Frankfurt an der Oder",
+        "Adresse": "M\u00fchlenweg 48, 15232 Frankfurt an der Oder",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "8",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "30",
+        "Sitzplatzanordnung": "Variabel",
+        "Er\u00f6ffnungsjahr": "1974",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss Skymaster ZKP 2",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "VIOSO-FullDome-2k",
+        "Hersteller der Fulldome-Software": "Vioso"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.228574,
+          51.691939
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Herzberg an der Elster",
+        "Adresse": "Lugstra\u00dfe 3, 04916 Herzberg/Elster",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "8",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "70",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1965",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss Skymaster ZKP 2",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "",
+        "Hersteller der Fulldome-Software": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.082658,
+          51.993562
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "J\u00fcterbog",
+        "Adresse": "Schillerstra\u00dfe 42/50, 14931 J\u00fcterbog",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "6",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "42",
+        "Sitzplatzanordnung": "Variabel",
+        "Er\u00f6ffnungsjahr": "1986",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss ZKP 1",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "",
+        "Hersteller der Fulldome-Software": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.061757,
+          52.402495
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Potsdam",
+        "Adresse": "Gutenbergstra\u00dfe 71/72, 14467 Potsdam",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "8",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "46",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "2007",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss Skymaster ZKP 2",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "Zeiss Spacegate Quinto",
+        "Hersteller der Fulldome-Software": "Zeiss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.888884,
+          50.793018
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Chemnitz",
+        "Adresse": "Albert-K\u00f6hler-Stra\u00dfe 48, 09122 Chemnitz",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "6",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "34",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1981",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss Skymaster ZKP 2",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "Eigenbau",
+        "Hersteller der Fulldome-Software": "Eigenbau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.012758,
+          50.673891
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Drebach",
+        "Adresse": "Milchstra\u00dfe 1, 09430 Drebach",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "11",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "70",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1986",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss Skymaster ZKP 3",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "Zeiss Velvet Duo",
+        "Hersteller der Fulldome-Software": "Zeiss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.949303,
+          51.134549
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "G\u00f6rlitz",
+        "Adresse": "An der Sternwarte 1, 02827 G\u00f6rlitz",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "8",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "80",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1989",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss ZKP 1",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "",
+        "Hersteller der Fulldome-Software": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.945544,
+          50.941128
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Pirna",
+        "Adresse": "Rottwerndorfer Stra\u00dfe 49, 01796 Pirna",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "4.4",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "20",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1967",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Selbstbau",
+        "Hersteller des optomechanischen Projektors": "Eigenbau",
+        "Fulldome-Software": "",
+        "Hersteller der Fulldome-Software": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.62221,
+          51.11603
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Radebeul",
+        "Adresse": "Auf den Ebenbergen 10a, 01445 Radebeul",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "8",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "60",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1969",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss Skymaster ZKP 4",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "VIOSO-FullDome-2k",
+        "Hersteller der Fulldome-Software": "Vioso"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.414938,
+          50.526932
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Rodewisch",
+        "Adresse": "R\u00fctzengr\u00fcner Stra\u00dfe 41a, 08228 Rodewisch",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "8",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "60",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1984",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss Skymaster ZKP 2",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "Zeiss Powerdome",
+        "Hersteller der Fulldome-Software": "Zeiss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.22559,
+          51.395483
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Schkeuditz",
+        "Adresse": "Bergbreite 1, 04435 Schkeuditz",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "8",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "57",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1978",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss Skymaster ZKP 2",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "",
+        "Hersteller der Fulldome-Software": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.646585,
+          50.598563
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Schneeberg",
+        "Adresse": "Heinrich-Heine-Stra\u00dfe 13a, 08289 Schneeberg",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "8",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "50",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1976",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss Skymaster ZKP 3",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "Eigenbau",
+        "Hersteller der Fulldome-Software": "Eigenbau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4644,
+          50.681435
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Zwickau",
+        "Adresse": "Kreuzbergweg, 08064 Zwickau",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "6",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "30",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1980",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss\u00a0ZKP 1",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "",
+        "Hersteller der Fulldome-Software": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.440461,
+          51.750529
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Aschersleben",
+        "Adresse": "Auf der Alten Burg 40, 06449 Aschersleben",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "8",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "60",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1976",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss\u00a0ZKP 1",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "",
+        "Hersteller der Fulldome-Software": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.847375,
+          52.274547
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Burg",
+        "Adresse": "Kirchhofstra\u00dfe 3, 39288 Burg",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "6",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "30",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1974",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss\u00a0ZKP 1",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "",
+        "Hersteller der Fulldome-Software": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.24773,
+          51.802692
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Dessau",
+        "Adresse": "Peterholzstra\u00dfe 58, 06849 Dessau-Rosslau",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "8",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "42",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1967",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss Skymaster ZKP 2P",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "",
+        "Hersteller der Fulldome-Software": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.036875,
+          51.457306
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Halle an der Saale",
+        "Adresse": "Schkeuditzer Stra\u00dfe 4b, 06116 Halle (Saale)",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "8",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "50",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1963",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss ZKP 1",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "",
+        "Hersteller der Fulldome-Software": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.618837,
+          52.171667
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Magdeburg",
+        "Adresse": "Pablo-Picasso-Stra\u00dfe 20, 39128 Magdeburg",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "6",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "35",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1977",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss Skymaster ZKP 2",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "",
+        "Hersteller der Fulldome-Software": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.990634,
+          51.353071
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Merseburg",
+        "Adresse": "Teichstra\u00dfe 2, 06217 Merseburg",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "8",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "50",
+        "Sitzplatzanordnung": "Variabel",
+        "Er\u00f6ffnungsjahr": "1969",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss ZKP 1",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "VIOSO-FullDome-2k",
+        "Hersteller der Fulldome-Software": "Vioso"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.531432,
+          51.271467
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Wangen",
+        "Adresse": "An der Steinkl\u00f6be 16, 06642 Wangen",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "7",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "42",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "2007",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "",
+        "Hersteller des optomechanischen Projektors": "",
+        "Fulldome-Software": "Sky-Skan definiti twin",
+        "Hersteller der Fulldome-Software": "Sky-Skan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.156309,
+          50.814142
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Bad Salzungen",
+        "Adresse": "Karl-Liebknecht-Stra\u00dfe 23, 36433 Bad Salzungen",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "8",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "60",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1984",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss ZKP 1",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "",
+        "Hersteller der Fulldome-Software": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.084372,
+          50.88025
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Gera",
+        "Adresse": "Leipziger Stra\u00dfe 24, 07545 Gera",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "4",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "25",
+        "Sitzplatzanordnung": "Variabel",
+        "Er\u00f6ffnungsjahr": "2017",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "",
+        "Hersteller des optomechanischen Projektors": "",
+        "Fulldome-Software": "VIOSO-FullDome-2K",
+        "Hersteller der Fulldome-Software": "Vioso"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.586952,
+          50.931847
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Jena",
+        "Adresse": "Am Planetarium 5, 07743 Jena",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "23",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "261",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1926",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss Universarium IX",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "Zeiss Velvet",
+        "Hersteller der Fulldome-Software": "Zeiss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.786819,
+          51.505968
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Nordhausen",
+        "Adresse": "Wiedigsburg 7/8, 99734 Nordhausen",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "5.4",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "30",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1998",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Selbstbau",
+        "Hersteller des optomechanischen Projektors": "Eigenbau",
+        "Fulldome-Software": "",
+        "Hersteller der Fulldome-Software": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.807527,
+          53.069975
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Bremen",
+        "Adresse": "Werderstra\u00dfe 73, 28199 Bremen",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "6",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "35",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1952",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss Skymaster ZKP 2",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "",
+        "Hersteller der Fulldome-Software": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.581466,
+          53.536043
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Bremerhaven",
+        "Adresse": "Bussestra\u00dfe 24, 27570 Bremerhaven",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "6",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "30",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1961",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss ZKP 1",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "",
+        "Hersteller der Fulldome-Software": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.580719,
+          53.522233
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Bremerhaven",
+        "Adresse": "Hoebelstra\u00dfe 24, 27572 Bremerhaven",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "5",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Mobil",
+        "Sitzpl\u00e4tze": "20",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "2011",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "RSA Cosmos Cosmodyss\u00e9e IV",
+        "Hersteller des optomechanischen Projektors": "RSA Cosmos",
+        "Fulldome-Software": "",
+        "Hersteller der Fulldome-Software": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.008911,
+          53.597313
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Hamburg",
+        "Adresse": "Linnering 1, 22299 Hamburg",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "20.6",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "257",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1930",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss Universarium IX",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "E&S Digistar / SCISS Uniview",
+        "Hersteller der Fulldome-Software": "Evans & Sutherland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.047741,
+          53.458991
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "L\u00fcbz",
+        "Adresse": "Neuer Teich 6, 19386 L\u00fcbz",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "8",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "50",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1980",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss ZKP 1",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "",
+        "Hersteller der Fulldome-Software": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.078009,
+          54.085808
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Rostock",
+        "Adresse": "Nelkenweg 6, 18057 Rostock",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "6",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "30",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1965",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss ZKP 1",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "",
+        "Hersteller der Fulldome-Software": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.424022,
+          53.616843
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Schwerin",
+        "Adresse": "Weinbergstra\u00dfe 17, 19061 Schwerin",
+        "Land": "DE",
+        "Webseite": "www.https:",
+        "Kuppeldurchmesser": "8",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "54",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1962",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss Skymaster ZKP 2",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "",
+        "Hersteller der Fulldome-Software": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.072983,
+          54.339337
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Stralsund",
+        "Adresse": "Zur Schwedenschanze 15, 18435 Stralsund",
+        "Land": "DE",
+        "Webseite": "www.https:",
+        "Kuppeldurchmesser": "6",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "30",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1954",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss ZKP 1",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "",
+        "Hersteller der Fulldome-Software": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.530357,
+          52.259932
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Braunschweig",
+        "Adresse": "L\u00f6wenwall 18a, 38100 Braunschweig",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "3",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "12",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "2005",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Goto NEX",
+        "Hersteller des optomechanischen Projektors": "GOTO",
+        "Fulldome-Software": "",
+        "Hersteller der Fulldome-Software": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.466829,
+          53.242149
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Elsfleth",
+        "Adresse": "Weserstra\u00dfe 52, 26931 Elsfleth",
+        "Land": "DE",
+        "Webseite": "",
+        "Kuppeldurchmesser": "9.3",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "25",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1982",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss Skymaster ZKP 2",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "",
+        "Hersteller der Fulldome-Software": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.612789,
+          53.575659
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Gr\u00fcnendeich",
+        "Adresse": "Kirchenstieg 30, 21720 Gr\u00fcnendeich",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "6.3",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "30",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1958",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss Skymaster ZKP 2",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "",
+        "Hersteller der Fulldome-Software": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.747087,
+          52.355152
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Hannover",
+        "Adresse": "An der Bismarckschule 5, 30173 Hannover",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "6",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "38",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1963",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss ZKP 1",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "",
+        "Hersteller der Fulldome-Software": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.969053,
+          52.499999
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Neuenhaus",
+        "Adresse": "Jahnstra\u00dfe 3, 49828 Neuenhaus",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "5",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "35",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "2016",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "",
+        "Hersteller des optomechanischen Projektors": "",
+        "Fulldome-Software": "Eigenbau",
+        "Hersteller der Fulldome-Software": "Eigenbau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.47881,
+          53.486445
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Nordenham",
+        "Adresse": "Bahnhofstra\u00dfe 52, 26954 Nordenham",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "6",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "35",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1980",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss ZKP 0",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "",
+        "Hersteller der Fulldome-Software": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.069693,
+          52.249323
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Osnabr\u00fcck",
+        "Adresse": "Klaus-Strick-Weg 10, 49082 Osnabr\u00fcck",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "8",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "64",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1986",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss Skymaster ZKP 4",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "Sky-Skan definiti LED 5",
+        "Hersteller der Fulldome-Software": "Sky-Skan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.781552,
+          52.417065
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Wolfsburg",
+        "Adresse": "Uhlandweg 2, 38440 Wolfsburg",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "15",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "144",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1983",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss Starmaster ZMP",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "Zeiss Powerdome Velvet",
+        "Hersteller der Fulldome-Software": "Zeiss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.460619,
+          54.815175
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Flensburg",
+        "Adresse": "Kelmstra\u00dfe 14, 24944 Flensburg",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "6",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "20",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1944",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss Skymaster ZKP 4",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "",
+        "Hersteller der Fulldome-Software": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.527502,
+          54.83918
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Gl\u00fccksburg",
+        "Adresse": "F\u00f6rdestra\u00dfe 37, 24960 Gl\u00fccksburg",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "6",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "50",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1969",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "",
+        "Hersteller des optomechanischen Projektors": "",
+        "Fulldome-Software": "E&S Digistar SP2HD",
+        "Hersteller der Fulldome-Software": "Evans & Sutherland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.181242,
+          54.332378
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Kiel",
+        "Adresse": "Sokratesplatz 6, 24149 Kiel",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "9",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "64",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "2003",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "",
+        "Hersteller des optomechanischen Projektors": "",
+        "Fulldome-Software": "E&S Digistar",
+        "Hersteller der Fulldome-Software": "Evans & Sutherland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.072725,
+          54.327827
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Kronshagen",
+        "Adresse": "Hofbrook 64, 24119 Kronshagen",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "3",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "15",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1986",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Goto EX-3",
+        "Hersteller des optomechanischen Projektors": "GOTO",
+        "Fulldome-Software": "",
+        "Hersteller der Fulldome-Software": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.699619,
+          50.114697
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Frankfurt am Main",
+        "Adresse": "Bernhard-Grzimek-Allee 6-8, 60316 Frankfurt am Main",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "4",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "20",
+        "Sitzplatzanordnung": "Variabel",
+        "Er\u00f6ffnungsjahr": "1989",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Selbstbau",
+        "Hersteller des optomechanischen Projektors": "Eigenbau",
+        "Fulldome-Software": "",
+        "Hersteller der Fulldome-Software": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.679141,
+          50.551191
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Fulda",
+        "Adresse": "Jesuitenplatz 2, 36037 Fulda",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "6",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "35",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1990",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss Skymaster ZKP 2",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "Zeiss Spacegate Duo mit Sky-Skan DigitalSky 2",
+        "Hersteller der Fulldome-Software": "Sky-Skan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.499319,
+          51.311054
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Kassel",
+        "Adresse": "An der Karlsaue 20 c, 34131 Kassel",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "10",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "60",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1992",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss Skymaster ZKP 4",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "Zeiss Velvet Duo",
+        "Hersteller der Fulldome-Software": "Zeiss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.227711,
+          51.485446
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Bochum",
+        "Adresse": "Castroper Stra\u00dfe 67, 44791 Bochum",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "20",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "260",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1964",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss Universarium IX",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "Zeiss Velvet",
+        "Hersteller der Fulldome-Software": "Zeiss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.960135,
+          51.207711
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Erkrath",
+        "Adresse": "Sedentaler Stra\u00dfe 105, 40679 Erkrath",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "10",
+        "Kuppelneigung": "10",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "56",
+        "Sitzplatzanordnung": "Unidirektional",
+        "Er\u00f6ffnungsjahr": "1980",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "",
+        "Hersteller des optomechanischen Projektors": "",
+        "Fulldome-Software": "Sky-Skan definiti DLP 6",
+        "Hersteller der Fulldome-Software": "Sky-Skan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.175551,
+          51.526449
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Herne",
+        "Adresse": "Am B\u00f6ckenbusch 2a, 44652 Herne",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "4.5",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "22",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1991",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "",
+        "Hersteller des optomechanischen Projektors": "",
+        "Fulldome-Software": "Eigenbau",
+        "Hersteller der Fulldome-Software": "Eigenbau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.955864,
+          50.966793
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "K\u00f6ln",
+        "Adresse": "Bl\u00fccherstra\u00dfe 15-17, 50733 K\u00f6ln",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "6",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "30",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1965",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss ZKP 1",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "",
+        "Hersteller der Fulldome-Software": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.89532,
+          51.425111
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "M\u00fclheim an der Ruhr",
+        "Adresse": "Oberstra\u00dfe 92-94, 45468 M\u00fclheim an der Ruhr",
+        "Land": "DE",
+        "Webseite": "www.https:",
+        "Kuppeldurchmesser": "6.5",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "15",
+        "Sitzplatzanordnung": "Variabel",
+        "Er\u00f6ffnungsjahr": "2004",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "RSA Cosmos Cosmodyss\u00e9e III",
+        "Hersteller des optomechanischen Projektors": "RSA Cosmos",
+        "Fulldome-Software": "",
+        "Hersteller der Fulldome-Software": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.591185,
+          51.949413
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "M\u00fcnster",
+        "Adresse": "Sentruper Stra\u00dfe 285, 48161 M\u00fcnster",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "20",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "265",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1981",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss Universarium VIII",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "E&S Digistar",
+        "Hersteller der Fulldome-Software": "Evans & Sutherland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.761151,
+          49.302398
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Saarlouis",
+        "Adresse": "Gro\u00dfstra\u00dfe 37, 66740 Saarlouis",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "10",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Mobil",
+        "Sitzpl\u00e4tze": "80",
+        "Sitzplatzanordnung": "Unidirektional",
+        "Er\u00f6ffnungsjahr": "2015",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "",
+        "Hersteller des optomechanischen Projektors": "",
+        "Fulldome-Software": "Eigenbau",
+        "Hersteller der Fulldome-Software": "Eigenbau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.005726,
+          48.208878
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Albstadt-Ebingen",
+        "Adresse": "Hartmannstra\u00dfe 140, 72458 Albstadt-Ebingen",
+        "Land": "DE",
+        "Webseite": "",
+        "Kuppeldurchmesser": "5",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "38",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1985",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Goto E-5",
+        "Hersteller des optomechanischen Projektors": "GOTO",
+        "Fulldome-Software": "",
+        "Hersteller der Fulldome-Software": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.843043,
+          47.999136
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Freiburg im Breisgau",
+        "Adresse": "Bismarckallee 7g, 79098 Freiburg im Breisgau",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "13",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "140",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "2002",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss Starmaster ZMP",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "Sky-Skan definiti 4K HC",
+        "Hersteller der Fulldome-Software": "Sky-Skan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.211129,
+          49.14002
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Heilbronn",
+        "Adresse": ", 74072 Heilbronn",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "21.5",
+        "Kuppelneigung": "20",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "150",
+        "Sitzplatzanordnung": "Unidirektional",
+        "Er\u00f6ffnungsjahr": "2019",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss Universarium IX",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "E&S Digistar, SCISS Uniview",
+        "Hersteller der Fulldome-Software": "Evans & Sutherland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.883662,
+          48.2193
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Laupheim",
+        "Adresse": "Milchstra\u00dfe 1, 88471 Laupheim",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "10",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "60",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1990",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss Skymaster ZKP 4",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "Zeiss Velvet Duo",
+        "Hersteller der Fulldome-Software": "Zeiss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.49298,
+          49.477297
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Mannheim",
+        "Adresse": "Wilhelm-Varnholt-Allee 1, 68165 Mannheim",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "20",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "230",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1984",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss Universarium IX",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "Zeiss Velvet",
+        "Hersteller der Fulldome-Software": "Zeiss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.100645,
+          48.782847
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Oberkochen",
+        "Adresse": "Carl-Zeiss-Stra\u00dfe 22, 73447 Oberkochen",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "4.6",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "10",
+        "Sitzplatzanordnung": "Unidirektional",
+        "Er\u00f6ffnungsjahr": "2014",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "",
+        "Hersteller des optomechanischen Projektors": "",
+        "Fulldome-Software": "Zeiss Velvet Duo",
+        "Hersteller der Fulldome-Software": "Zeiss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.21489,
+          48.497663
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Reutlingen",
+        "Adresse": "Karlstra\u00dfe 40, 72764 Reutlingen",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "4",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "20",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1965",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Goto E-5",
+        "Hersteller des optomechanischen Projektors": "GOTO",
+        "Fulldome-Software": "",
+        "Hersteller der Fulldome-Software": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.186892,
+          48.78344
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Stuttgart",
+        "Adresse": "Willy-Brandt-Stra\u00dfe 25, 70173 Stuttgart",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "20",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "272",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1977",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss Universarium IX",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "Zeiss Velvet",
+        "Hersteller der Fulldome-Software": "Zeiss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.574284,
+          48.451208
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Altenm\u00fcnster-Violau",
+        "Adresse": "St.-Michael-Stra\u00dfe 15, 86450 Altenm\u00fcnster-Violau",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "4.5",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "26",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1975",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss ZKP 1",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "",
+        "Hersteller der Fulldome-Software": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.898259,
+          48.375989
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Augsburg",
+        "Adresse": "Gallusplatz 2, 86152 Augsburg",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "4.8",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "30",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1983",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Goto E-5",
+        "Hersteller des optomechanischen Projektors": "GOTO",
+        "Fulldome-Software": "",
+        "Hersteller der Fulldome-Software": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.894849,
+          48.370766
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Augsburg",
+        "Adresse": "Im Th\u00e4le 3, 86152 Augsburg",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "10",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "70",
+        "Sitzplatzanordnung": "Unidirektional",
+        "Er\u00f6ffnungsjahr": "1989",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "",
+        "Hersteller des optomechanischen Projektors": "",
+        "Fulldome-Software": "Sky-Skan definiti DLP 7",
+        "Hersteller der Fulldome-Software": "Sky-Skan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.562109,
+          47.759762
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Bad T\u00f6lz",
+        "Adresse": "Am Schlossplatz 1, 83646 Bad T\u00f6lz",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "6",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "35",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "2014",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss ZKP 1",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "",
+        "Hersteller der Fulldome-Software": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.408657,
+          49.415898
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Dieterskirchen",
+        "Adresse": "Roigerstr. 6, 92542 Dieterskirchen",
+        "Land": "DE",
+        "Webseite": "www.http:",
         "Kuppeldurchmesser": "6",
         "Kuppelneigung": "0",
         "Mobilit\u00e4t": "Station\u00e4r",
         "Sitzpl\u00e4tze": "25",
         "Sitzplatzanordnung": "Konzentrisch",
         "Er\u00f6ffnungsjahr": "2014",
-        "Besucher pro Jahr": "3000",
-        "Optomechanischer Projektor": "Polaris MK1",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Astroger\u00e4te Berger, Polaris MK1",
         "Hersteller des optomechanischen Projektors": "Astroger\u00e4te Berger",
-        "Fulldome-Software": "DigitalSky 2",
+        "Fulldome-Software": "Sky-Skan definiti Solo",
         "Hersteller der Fulldome-Software": "Sky-Skan"
       }
     },
@@ -34,26 +2050,54 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.062778,
-          49.447778
+          11.582909,
+          48.130041
         ]
       },
       "properties": {
-        "Name": "Nicolaus-Copernicus Planetarium N\u00fcrnberg",
+        "Einrichtung": "Planetarium",
+        "Ort": "M\u00fcnchen",
+        "Adresse": "Museumsinsel 1, 80538 M\u00fcnchen",
+        "Land": "DE",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "15",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "174",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1925",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss Skymaster ZKP 4",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "Zeiss Powerdome Velvet",
+        "Hersteller der Fulldome-Software": "Zeiss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.062889,
+          49.447939
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
         "Ort": "N\u00fcrnberg",
         "Adresse": "Am Pl\u00e4rrer 41, 90429 N\u00fcrnberg",
         "Land": "DE",
-        "Webseite": "www.planetarium-nuernberg.de",
+        "Webseite": "www.http:",
         "Kuppeldurchmesser": "18",
         "Kuppelneigung": "0",
         "Mobilit\u00e4t": "Station\u00e4r",
-        "Sitzpl\u00e4tze": "200",
+        "Sitzpl\u00e4tze": "215",
         "Sitzplatzanordnung": "Konzentrisch",
         "Er\u00f6ffnungsjahr": "1961",
-        "Besucher pro Jahr": "80000",
+        "Besucher pro Jahr": "(unbekannt)",
         "Optomechanischer Projektor": "Zeiss Modell V",
         "Hersteller des optomechanischen Projektors": "Zeiss",
-        "Fulldome-Software": "DigitalSky 2",
+        "Fulldome-Software": "Sky-Skan Definiti 4K SXRD",
         "Hersteller der Fulldome-Software": "Sky-Skan"
       }
     },
@@ -62,27 +2106,307 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.74,
-          49.398056
+          13.077814,
+          48.72862
         ]
       },
       "properties": {
-        "Name": "Planetarium Ursensollen",
-        "Ort": "Ursensollen",
-        "Adresse": "Allmannsberger Weg 20, 92289 Ursensollen",
+        "Einrichtung": "Planetarium",
+        "Ort": "Winzer",
+        "Adresse": "Pledlberg 1a, 94577 Winzer",
         "Land": "DE",
-        "Webseite": "www.planetarium-ursensollen.de",
-        "Kuppeldurchmesser": "6,6",
-        "Kuppelneigung": "15",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "4",
+        "Kuppelneigung": "0",
         "Mobilit\u00e4t": "Station\u00e4r",
-        "Sitzpl\u00e4tze": "30",
-        "Sitzplatzanordnung": "Unidirektional",
-        "Er\u00f6ffnungsjahr": "2019",
+        "Sitzpl\u00e4tze": "17",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "2007",
         "Besucher pro Jahr": "(unbekannt)",
-        "Optomechanischer Projektor": "Zeiss Universarium",
+        "Optomechanischer Projektor": "",
         "Hersteller des optomechanischen Projektors": "",
-        "Fulldome-Software": "DigitalSky Dark Matter",
+        "Fulldome-Software": "Eigenbau",
+        "Hersteller der Fulldome-Software": "Eigenbau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.661277,
+          47.168199
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Judenburg",
+        "Adresse": "Kirchplatz 1, 8750 Judenburg",
+        "Land": "AT",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "8.5",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "65",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "2006",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss Skymaster ZKP 4",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "Zeiss Spacegate Quinto",
+        "Hersteller der Fulldome-Software": "Zeiss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.265673,
+          46.619319
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Klagenfurt",
+        "Adresse": "Villacher Stra\u00dfe 239, 2090 Klagenfurt",
+        "Land": "AT",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "12.5",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "134",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1977",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss Spacemaster RFP",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "Sky-Skan definiti 8K compact",
         "Hersteller der Fulldome-Software": "Sky-Skan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.727222,
+          47.353945
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Schwaz",
+        "Adresse": "Alte Landstra\u00dfe 15, 6130 Schwaz",
+        "Land": "AT",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "8",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "65",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "2001",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss Skymaster ZKP 3/B",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "Zeiss Spacegate Quinto",
+        "Hersteller der Fulldome-Software": "Zeiss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.119905,
+          47.248338
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Wald im Pinzgau (K\u00f6nigsleiten)",
+        "Adresse": "K\u00f6nigsleiten 29, 5742 Wald im Pinzgau",
+        "Land": "AT",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "7",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "50",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1997",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss Skymaster ZKP 3",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "",
+        "Hersteller der Fulldome-Software": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.359753,
+          48.205268
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Wien",
+        "Adresse": "Burgring 7, 1010 Wien",
+        "Land": "AT",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "8.5",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "61",
+        "Sitzplatzanordnung": "Unidirektional",
+        "Er\u00f6ffnungsjahr": "2014",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "",
+        "Hersteller des optomechanischen Projektors": "",
+        "Fulldome-Software": "E&S Digistar",
+        "Hersteller der Fulldome-Software": "Evans & Sutherland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.39494,
+          48.216143
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Wien",
+        "Adresse": "Oswald-Thomas-Platz 1, 1020 Wien",
+        "Land": "AT",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "20",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "192",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1964",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss Universarium IX",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "Zeiss Velvet",
+        "Hersteller der Fulldome-Software": "Zeiss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.336633,
+          47.052766
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Luzern",
+        "Adresse": "Lidostra\u00dfe 5, 6006 Luzern",
+        "Land": "CH",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "18",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "230",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "1969",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "",
+        "Hersteller des optomechanischen Projektors": "",
+        "Fulldome-Software": "E&S Digistar",
+        "Hersteller der Fulldome-Software": "Evans & Sutherland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.609761,
+          47.705624
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Schaffhausen",
+        "Adresse": "Weiherweg 1, 8200 Schaffhausen",
+        "Land": "CH",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "6",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "25",
+        "Sitzplatzanordnung": "Variabel",
+        "Er\u00f6ffnungsjahr": "2012",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "",
+        "Hersteller des optomechanischen Projektors": "",
+        "Fulldome-Software": "Sky-Skan definiti Solo",
+        "Hersteller der Fulldome-Software": "Sky-Skan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.726266,
+          46.739325
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Schwanden, Berner Oberland",
+        "Adresse": "Schwandenstra\u00dfe 131, 3657 Schwanden ob Sigriswil",
+        "Land": "CH",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "8",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "50",
+        "Sitzplatzanordnung": "Konzentrisch",
+        "Er\u00f6ffnungsjahr": "2000",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "Zeiss Skymaster ZKP 4",
+        "Hersteller des optomechanischen Projektors": "Zeiss",
+        "Fulldome-Software": "Zeiss Spacegate Quinto",
+        "Hersteller der Fulldome-Software": "Zeiss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.478347,
+          46.438978
+        ]
+      },
+      "properties": {
+        "Einrichtung": "Planetarium",
+        "Ort": "Karneid",
+        "Adresse": "Gummer 5, 39053 Karneid (BZ)",
+        "Land": "IT",
+        "Webseite": "www.http:",
+        "Kuppeldurchmesser": "9.1",
+        "Kuppelneigung": "0",
+        "Mobilit\u00e4t": "Station\u00e4r",
+        "Sitzpl\u00e4tze": "53",
+        "Sitzplatzanordnung": "Unidirektional",
+        "Er\u00f6ffnungsjahr": "2013",
+        "Besucher pro Jahr": "(unbekannt)",
+        "Optomechanischer Projektor": "",
+        "Hersteller des optomechanischen Projektors": "",
+        "Fulldome-Software": "E&S Digistar DLP 3D",
+        "Hersteller der Fulldome-Software": "Evans & Sutherland"
       }
     }
   ]
