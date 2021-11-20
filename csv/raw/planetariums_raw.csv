@@ -1,5 +1,5 @@
 institution;location;address;country_code;latitude;longitude;website;dome_diameter;dome_tilt;mobility;seats;seat_arrangement;opening_year;visitors_per_year;optomechanical_projector;optomechanical_projector_manufacturer;fulldome_software;fulldome_software_manufacturer
-Planetarium;Berlin;Alt-Treptow 1, 12435 Berlin;DE;52.48586205;13.476329184500559;www.planetarium.berlin;8;0.0;stationary;38;concentric;1959;unknown;Zeiss Skymaster ZKP 2;Zeiss;;
+Planetarium;Berlin;Alt-Treptow 1, 12435 Berlin;DE;52.48586205;13.476328233656188;www.planetarium.berlin;8;0.0;stationary;38;concentric;1959;unknown;Zeiss Skymaster ZKP 2;Zeiss;;
 Planetarium;Berlin;Munsterdamm 90, 12169 Berlin-Schöneberg;DE;52.4576546;13.3491657;www.planetarium.berlin;20;0.0;stationary;291;unidirectional;1965;unknown;Zeiss Modell Vb;Zeiss;Zeiss Velvet;Zeiss
 Planetarium;Berlin;Prenzlauer Allee 80, 10405 Berlin;DE;52.54305685;13.428143813461539;www.planetarium.berlin;23;0.0;stationary;307;unidirectional;1987;unknown;Zeiss Universarium IX;Zeiss;Zeiss Velvet, E&S Digistar;Evans & Sutherland
 Planetarium;Berlin;Prenzlauer Allee 80, 10405 Berlin;DE;52.54305685;13.428143813461539;www.planetarium.berlin;6;0.0;mobile;30;variable;2017;unknown;;;E&S Digistar;Evans & Sutherland
