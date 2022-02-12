@@ -7,7 +7,7 @@ Planetarium;Blankenfelde-Mahlow;Bahnhofstraße 63, 15827 Blankenfelde-Mahlow;DE;
 Planetarium;Cottbus;Lindenplatz 21, 03042 Cottbus;DE;51.75449425;14.344334810299305;www.planetarium-cottbus.de;12.5;0.0;stationary;91;unidirectional;1974;unknown;Goto Chronos II;GOTO;RSA Cosmos In Space System 2C HD;RSA Cosmos
 Planetarium;Frankfurt an der Oder;Mühlenweg 48, 15232 Frankfurt an der Oder;DE;52.32575445;14.549366018691149;www.planetarium-frankfurt.de;8;0.0;stationary;30;variable;1974;unknown;Zeiss Skymaster ZKP 2;Zeiss;VIOSO-FullDome-2k;Vioso
 Planetarium;Herzberg an der Elster;Lugstraße 3, 04916 Herzberg/Elster;DE;51.6919391;13.22857422458485;www.herzberger-sternfreunde-ev.de;8;0.0;stationary;70;concentric;1965;unknown;Zeiss Skymaster ZKP 2;Zeiss;;
-Planetarium;Jüterbog;Schillerstraße 42/50, 14931 Jüterbog;DE;51.9935623;13.0826579;www.gsgym.de;6;0.0;stationary;42;variable;1986;unknown;Zeiss ZKP 1;Zeiss;;
+Planetarium;Jüterbog;Schillerstraße 42/50, 14931 Jüterbog;DE;51.9932856;13.0799395;www.gsgym.de;6;0.0;stationary;42;variable;1986;unknown;Zeiss ZKP 1;Zeiss;;
 Planetarium;Potsdam;Gutenbergstraße 71/72, 14467 Potsdam;DE;52.4024953;13.0617568;www.urania-planetarium.de;8;0.0;stationary;46;concentric;2007;unknown;Zeiss Skymaster ZKP 2;Zeiss;Zeiss Spacegate Quinto;Zeiss
 Planetarium;Chemnitz;Albert-Köhler-Straße 48, 09122 Chemnitz;DE;50.793029849999996;12.888901876764766;www.planetarium-chemnitz.de;6;0.0;stationary;34;concentric;1981;unknown;Zeiss Skymaster ZKP 2;Zeiss;Eigenbau;self-made
 Planetarium;Drebach;Milchstraße 1, 09430 Drebach;DE;50.673891499999996;13.012757588496326;www.sternwarte-drebach.de;11;0.0;stationary;70;concentric;1986;unknown;Zeiss Skymaster ZKP 3;Zeiss;Zeiss Velvet Duo;Zeiss
@@ -21,7 +21,7 @@ Planetarium;Zwickau;Kreuzbergweg, 08064 Zwickau;DE;50.6813587;12.4636071;www.ste
 Planetarium;Aschersleben;Auf der Alten Burg 40, 06449 Aschersleben;DE;51.75052935;11.44046065057652;www.aschersleben-zoo.de;8;0.0;stationary;60;concentric;1976;unknown;Zeiss ZKP 1;Zeiss;;
 Planetarium;Burg;Kirchhofstraße 3, 39288 Burg;DE;52.274547150000004;11.84737486673132;www.planetarium-burg.de;6;0.0;stationary;30;concentric;1974;unknown;Zeiss ZKP 1;Zeiss;;
 Planetarium;Dessau;Peterholzstraße 58, 06849 Dessau-Rosslau;DE;51.8026919;12.2477302;www.planetarium-dessau.de;8;0.0;stationary;42;concentric;1967;unknown;Zeiss Skymaster ZKP 2P;Zeiss;;
-Planetarium;Halle an der Saale;Schkeuditzer Straße 4b, 06116 Halle (Saale);DE;51.4573057;12.0368752;www.kanena.de;8;0.0;stationary;50;concentric;1963;unknown;Zeiss ZKP 1;Zeiss;;
+Planetarium;Halle an der Saale;Schkeuditzer Straße 4b, 06116 Halle (Saale);DE;51.4577083;12.0356144;www.kanena.de;8;0.0;stationary;50;concentric;1963;unknown;Zeiss ZKP 1;Zeiss;;
 Planetarium;Magdeburg;Pablo-Picasso-Straße 20, 39128 Magdeburg;DE;52.171666650000006;11.618836764604339;www.astronomiezentrum.jimdo.de;6;0.0;stationary;35;concentric;1977;unknown;Zeiss Skymaster ZKP 2;Zeiss;;
 Planetarium;Merseburg;Teichstraße 2, 06217 Merseburg;DE;51.35307105;11.990633579396459;www.planetarium-merseburg.de;8;0.0;stationary;50;variable;1969;unknown;Zeiss ZKP 1;Zeiss;VIOSO-FullDome-2k;Vioso
 Planetarium;Wangen;An der Steinklöbe 16, 06642 Wangen;DE;51.27146745;11.531431693932081;www.himmelsscheibe-erleben.de;7;0.0;stationary;42;concentric;2007;unknown;;;Sky-Skan definiti twin;Sky-Skan
@@ -35,9 +35,9 @@ Planetarium;Bremerhaven;Hoebelstraße 24, 27572 Bremerhaven;DE;53.522233;8.58071
 Planetarium;Hamburg;Linnering 1, 22299 Hamburg;DE;53.59731295;10.008911273704664;www.planetarium-hamburg.de;20.6;0.0;stationary;257;concentric;1930;unknown;Zeiss Universarium IX;Zeiss;E&S Digistar / SCISS Uniview;Evans & Sutherland
 Planetarium;Lübz;Neuer Teich 6, 19386 Lübz;DE;53.4589912;12.04774132721215;www.luebzerland.de;8;0.0;stationary;50;concentric;1980;unknown;Zeiss ZKP 1;Zeiss;;
 Planetarium;Rostock;Nelkenweg 6, 18057 Rostock;DE;54.0858082;12.078009228065394;www.sternwarte-rostock.de;6;0.0;stationary;30;concentric;1965;unknown;Zeiss ZKP 1;Zeiss;;
-Planetarium;Schwerin;Weinbergstraße 17, 19061 Schwerin;DE;53.6168427;11.424022;www.vhs-schwerin.de;8;0.0;stationary;54;concentric;1962;unknown;Zeiss Skymaster ZKP 2;Zeiss;;
+Planetarium;Schwerin;Weinbergstraße 17, 19061 Schwerin;DE;53.6174829;11.4216649;www.vhs-schwerin.de;8;0.0;stationary;54;concentric;1962;unknown;Zeiss Skymaster ZKP 2;Zeiss;;
 Planetarium;Stralsund;Zur Schwedenschanze 15, 18435 Stralsund;DE;54.3393367;13.072983259988543;www.hochschule-stralsund.de;6;0.0;stationary;30;concentric;1954;unknown;Zeiss ZKP 1;Zeiss;;
-Planetarium;Braunschweig;Löwenwall 18a, 38100 Braunschweig;DE;52.2599325;10.5303567;www.planetarium.gaussschule-bs.de;3;0.0;stationary;12;concentric;2005;unknown;Goto NEX;GOTO;;
+Planetarium;Braunschweig;Löwenwall 18a, 38100 Braunschweig;DE;52.259715299999996;10.53093872259803;www.planetarium.gaussschule-bs.de;3;0.0;stationary;12;concentric;2005;unknown;Goto NEX;GOTO;;
 Planetarium;Elsfleth;Weserstraße 52, 26931 Elsfleth;DE;53.2421492;8.466829434160843;;9.3;0.0;stationary;25;concentric;1982;unknown;Zeiss Skymaster ZKP 2;Zeiss;;
 Planetarium;Grünendeich;Kirchenstieg 30, 21720 Grünendeich;DE;53.5756588;9.6127892;www.maritime-elbe.de;6.3;0.0;stationary;30;concentric;1958;unknown;Zeiss Skymaster ZKP 2;Zeiss;;
 Planetarium;Hannover;An der Bismarckschule 5, 30173 Hannover;DE;52.355151500000005;9.747087199551125;www.planetarium-hannover.de;6;0.0;stationary;38;concentric;1963;unknown;Zeiss ZKP 1;Zeiss;;
@@ -51,7 +51,7 @@ Planetarium;Kiel;Sokratesplatz 6, 24149 Kiel;DE;54.3323777;10.1812416;www.medien
 Planetarium;Kronshagen;Hofbrook 64, 24119 Kronshagen;DE;54.327826900000005;10.072725348691021;www.gva-kiel.de;3;0.0;stationary;15;concentric;1986;unknown;Goto EX-3;GOTO;;
 Planetarium;Frankfurt am Main;Bernhard-Grzimek-Allee 6-8, 60316 Frankfurt am Main;DE;50.1146969;8.699618686359607;www.hvgg.de;4;0.0;stationary;20;variable;1989;unknown;Selbstbau;self-made;;
 Planetarium;Fulda;Jesuitenplatz 2, 36037 Fulda;DE;50.55119145;9.679140714743173;www.fulda.de;6;0.0;stationary;35;concentric;1990;unknown;Zeiss Skymaster ZKP 2;Zeiss;Zeiss Spacegate Duo mit Sky-Skan DigitalSky 2;Sky-Skan
-Planetarium;Kassel;An der Karlsaue 20 c, 34131 Kassel;DE;51.3110538;9.4993194;www.museum-kassel.de;10;0.0;stationary;60;concentric;1992;unknown;Zeiss Skymaster ZKP 4;Zeiss;Zeiss Velvet Duo;Zeiss
+Planetarium;Kassel;An der Karlsaue 20 c, 34131 Kassel;DE;51.3070303;9.4920597;www.museum-kassel.de;10;0.0;stationary;60;concentric;1992;unknown;Zeiss Skymaster ZKP 4;Zeiss;Zeiss Velvet Duo;Zeiss
 Planetarium;Bochum;Castroper Straße 67, 44791 Bochum;DE;51.48544605;7.2277105753335835;www.planetarium-bochum.de;20;0.0;stationary;260;concentric;1964;unknown;Zeiss Universarium IX;Zeiss;Zeiss Velvet;Zeiss
 Planetarium;Erkrath;Sedentaler Straße 105, 40679 Erkrath;DE;51.2077114;6.9601355;www.planetarium-erkrath.de;10;10.0;stationary;56;unidirectional;1980;unknown;;;Sky-Skan definiti DLP 6;Sky-Skan
 Planetarium;Herne;Am Böckenbusch 2a, 44652 Herne;DE;51.5264489;7.1755509;www.sternwarte-herne.de;4.5;0.0;stationary;22;concentric;1991;unknown;;;Eigenbau;self-made
@@ -59,7 +59,7 @@ Planetarium;Köln;Blücherstraße 15-17, 50733 Köln;DE;50.96679265;6.9558644068
 Planetarium;Mülheim an der Ruhr;Oberstraße 92-94, 45468 Mülheim an der Ruhr;DE;51.42511095;6.895319851711275;www.rs-stadtmitte.de;6.5;0.0;stationary;15;variable;2004;unknown;RSA Cosmos Cosmodyssée III;RSA Cosmos;;
 Planetarium;Münster;Sentruper Straße 285, 48161 Münster;DE;51.949413250000006;7.591184824135043;www.lwl-planetarium-muenster.de;20;0.0;stationary;265;concentric;1981;unknown;Zeiss Universarium VIII;Zeiss;E&S Digistar;Evans & Sutherland
 Planetarium;Saarlouis;Großstraße 37, 66740 Saarlouis;DE;49.3023978;6.7611510500000005;www.twan-planetarium.de;10;0.0;mobile;80;unidirectional;2015;unknown;;;Eigenbau;self-made
-Planetarium;Albstadt-Ebingen;Hartmannstraße 140, 72458 Albstadt-Ebingen;DE;48.2088783;9.0057265;;5;0.0;stationary;38;concentric;1985;unknown;Goto E-5;GOTO;;
+Planetarium;Albstadt-Ebingen;Hartmannstraße 140, 72458 Albstadt-Ebingen;DE;48.2089766;9.0016066;;5;0.0;stationary;38;concentric;1985;unknown;Goto E-5;GOTO;;
 Planetarium;Freiburg im Breisgau;Bismarckallee 7g, 79098 Freiburg im Breisgau;DE;47.9991364;7.843043;www.planetarium-freiburg.de;13;0.0;stationary;140;concentric;2002;unknown;Zeiss Starmaster ZMP;Zeiss;Sky-Skan definiti 4K HC;Sky-Skan
 Planetarium;Heilbronn;, 74072 Heilbronn;DE;49.14002;9.211129;www.experimenta.science;21.5;20.0;stationary;150;unidirectional;2019;unknown;Zeiss Universarium IX;Zeiss;E&S Digistar, SCISS Uniview;Evans & Sutherland
 Planetarium;Laupheim;Milchstraße 1, 88471 Laupheim;DE;48.21930035;9.883662062436644;www.planetarium-laupheim.de;10;0.0;stationary;60;concentric;1990;unknown;Zeiss Skymaster ZKP 4;Zeiss;Zeiss Velvet Duo;Zeiss
@@ -72,7 +72,7 @@ Planetarium;Augsburg;Gallusplatz 2, 86152 Augsburg;DE;48.3759893;10.898258531934
 Planetarium;Augsburg;Im Thäle 3, 86152 Augsburg;DE;48.3707661;10.894849285472766;www.s-planetarium.de;10;0.0;stationary;70;unidirectional;1989;unknown;;;Sky-Skan definiti DLP 7;Sky-Skan
 Planetarium;Bad Tölz;Am Schlossplatz 1, 83646 Bad Tölz;DE;47.75976165;11.56210852817506;www.planetarium-toelz.de;6;0.0;stationary;35;concentric;2014;unknown;Zeiss ZKP 1;Zeiss;;
 Planetarium;Dieterskirchen;Roigerstr. 6, 92542 Dieterskirchen;DE;49.415898049999996;12.40865672835076;www.sternwarte-dieterskirchen.de;6;0.0;stationary;25;concentric;2014;unknown;Astrogeräte Berger, Polaris MK1;Astrogeräte Berger;Sky-Skan definiti Solo;Sky-Skan
-Planetarium;München;Museumsinsel 1, 80538 München;DE;48.1300409;11.582908990594504;www.deutsches-museum.de;15;0.0;stationary;174;concentric;1925;unknown;Zeiss Skymaster ZKP 4;Zeiss;Zeiss Powerdome Velvet;Zeiss
+Planetarium;München;Museumsinsel 1, 80538 München;DE;48.130368;11.5839868;www.deutsches-museum.de;15;0.0;stationary;174;concentric;1925;unknown;Zeiss Skymaster ZKP 4;Zeiss;Zeiss Powerdome Velvet;Zeiss
 Planetarium;Nürnberg;Am Plärrer 41, 90429 Nürnberg;DE;49.44793865;11.062888863447085;www.planetarium-nuernberg.de;18;0.0;stationary;215;concentric;1961;unknown;Zeiss Modell V;Zeiss;Sky-Skan Definiti 4K SXRD;Sky-Skan
 Planetarium;Winzer;Pledlberg 1a, 94577 Winzer;DE;48.7265371;13.075818187037036;www.sternwarte-winzer.de;4;0.0;stationary;17;concentric;2007;unknown;;;Eigenbau;self-made
 Planetarium;Judenburg;Kirchplatz 1, 8750 Judenburg;AT;47.1681994;14.6612772;www.sternenturm.at;8.5;0.0;stationary;65;concentric;2006;unknown;Zeiss Skymaster ZKP 4;Zeiss;Zeiss Spacegate Quinto;Zeiss
@@ -81,7 +81,7 @@ Planetarium;Schwaz;Alte Landstraße 15, 6130 Schwaz;AT;47.3539448;11.72722198986
 Planetarium;Wald im Pinzgau (Königsleiten);Königsleiten 29, 5742 Wald im Pinzgau;AT;47.2481159;12.1155296;www.sternwarte-koenigsleiten.com;7;0.0;stationary;50;concentric;1997;unknown;Zeiss Skymaster ZKP 3;Zeiss;;
 Planetarium;Wien;Burgring 7, 1010 Wien;AT;48.20526795;16.35975325892225;www.nhm-wien.ac.at;8.5;0.0;stationary;61;unidirectional;2014;unknown;;;E&S Digistar;Evans & Sutherland
 Planetarium;Wien;Oswald-Thomas-Platz 1, 1020 Wien;AT;48.21614285;16.394940200895384;www.planetarium-wien.at;20;0.0;stationary;192;concentric;1964;unknown;Zeiss Universarium IX;Zeiss;Zeiss Velvet;Zeiss
-Planetarium;Luzern;Lidostraße 5, 6006 Luzern;CH;47.05276625;8.336632856823567;www.verkehrshaus.ch;18;0.0;stationary;230;concentric;1969;unknown;;;E&S Digistar;Evans & Sutherland
+Planetarium;Luzern;Lidostraße 5, 6006 Luzern;CH;47.0532818;8.3351834;www.verkehrshaus.ch;18;0.0;stationary;230;concentric;1969;unknown;;;E&S Digistar;Evans & Sutherland
 Planetarium;Schaffhausen;Weiherweg 1, 8200 Schaffhausen;CH;47.70562385;8.609760754275321;www.sternwarte-schaffhausen.ch;6;0.0;stationary;25;variable;2012;unknown;;;Sky-Skan definiti Solo;Sky-Skan
 Planetarium;Schwanden, Berner Oberland;Schwandenstraße 131, 3657 Schwanden ob Sigriswil;CH;46.739324800000006;7.7262662743616435;www.sternwarte-planetarium.ch;8;0.0;stationary;50;concentric;2000;unknown;Zeiss Skymaster ZKP 4;Zeiss;Zeiss Spacegate Quinto;Zeiss
 Planetarium;Karneid;Gummer 5, 39053 Karneid (BZ);IT;46.4432864;11.4836295;www.planetarium.bz.it;9.1;0.0;stationary;53;unidirectional;2013;unknown;;;E&S Digistar DLP 3D;Evans & Sutherland
